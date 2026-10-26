@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Wander * is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by gv) and added to the network as a stub for full-pipeline profiling.
-- http://onwander.com
+Wander * is a stub entry in the API Evangelist catalog, originating from a venture capital portfolio source and noted as being backed by GV. The company currently has no publicly documented API endpoints, documentation, or detailed public information beyond this placeholder entry. This profile serves as a placeholder for future enrichment when more data becomes available.
+
+**Areas:** Company · Travel · Platform · Startup · Venture · Technology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://onwander.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/onwander-com/](https://apis.io/providers/onwander-com/).
